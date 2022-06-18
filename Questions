@@ -1,0 +1,115 @@
+Warm Up Question:
+
+What's the correct sorting function to list Colors in alphabetical order (A to Z)?
+
+Answer: Descending
+
+
+Question 1:
+
+What does clicking the + sign below do?
+
+Answer: Adds a new Worksheet
+
+
+Question 2:
+
+What is the correct keyboard shortcut to cut a cell value?
+
+Answer: CTRL + X
+
+
+Question 3:
+
+In a worksheet, what's the correct formula to reference Cell A1 from the ALPHA worksheet?
+
+Answer: =ALPHA!A1
+
+
+Question 4
+
+Based on the values in Cells B77:B81, what function can automatically return the value in Cell C77?
+
+
+Answer: =Max()
+
+
+Question 5
+
+What does clicking and dragging the fill handle indicated by the cursor below do?
+
+
+Answer: Copy the formula to other cells
+
+
+Question 6
+
+What value would be returned based on the formula in Cell A49?
+
+
+Answer: 4
+
+
+Question 7
+
+Which tools would you use to make Header 1 look like Header 2? Select all that apply.
+
+Answer: Bold and Center
+
+
+Question 8
+
+Based on the value in Cells B77:B81, which function can automatically return the value in Cell C77?
+
+Answer: =Min()
+
+
+Question 9
+
+Which tools would you use to make Chart 1 look like Chart 2? Select all that apply.
+
+Answer: Italics and Percent style
+
+
+Question 10
+
+What formula would produce the value in C25?
+
+Answer: =CONCATENATE(A25," ",B25)
+
+
+
+Question 11
+
+What value would be returned based on the formula in Cell D49?
+
+Answer: 1
+
+
+Question 12
+
+Which tools would you use to make Chart 1 look like Chart 2? Select all that apply.
+
+Answer: Data Labels and Legends
+
+
+
+Question 13
+
+You need to divide the number of cars by the number of people to calculate cars per person on Day 1.
+
+Answer: =B92/C92
+
+
+Question 14
+
+Based on the alues in Cells A51:A55, what formula can you copy and paste into Cells B51:B55 to return the values shown?
+
+Answer: =IF("Red","Yes","No")
+
+
+Question 15
+
+If the formula in Cell D49 is copied to Cells E49:F49, what sequence of values would be generated in Cells D49:F49?
+
+Answer: C, C, C
